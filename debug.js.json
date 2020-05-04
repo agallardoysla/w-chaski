@@ -1,0 +1,24 @@
+{
+  "pid": 9428,
+  "stats": [
+    {
+      "id": null,
+      "version": {
+        "node": "v12.13.0",
+        "total": "3.4.0",
+        "app": "0.0.6"
+      },
+      "pid": 9428,
+      "thread": "",
+      "mode": "debug",
+      "date": "2020-05-04T00:51:25.171Z",
+      "memory": 17.57,
+      "rm": 0,
+      "fm": 0,
+      "requests": 0,
+      "pending": 0,
+      "errors": 0,
+      "timeouts": 0
+    }
+  ]
+}
