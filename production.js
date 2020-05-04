@@ -6,4 +6,4 @@ const options = {};
 // options.config = { name: 'W2API.js' };
 // options.sleep = 3000;
 
-require('total.js').http('release', options);
+require("total.js").http("release", options);
