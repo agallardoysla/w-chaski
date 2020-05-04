@@ -5,7 +5,7 @@
   "engines": {
     "node": "12.x"
   },
-  "main": "production.js",
+  "main": "index.js",
   "scripts": {
     "start": "node production.js",
     "test": "echo \"Error: no test specified\" && exit 1"
