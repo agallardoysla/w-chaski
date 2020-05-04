@@ -1,1 +1,1 @@
-web: node production.js
+web: start

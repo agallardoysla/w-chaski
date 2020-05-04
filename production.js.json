@@ -1,5 +1,5 @@
 {
-  "pid": 996,
+  "pid": 15728,
   "stats": [
     {
       "id": null,
@@ -8,14 +8,14 @@
         "total": "3.4.0",
         "app": "0.0.6"
       },
-      "pid": 996,
+      "pid": 15728,
       "thread": "",
       "mode": "release",
-      "date": "2020-05-04T13:25:22.944Z",
-      "memory": 17.91,
-      "rm": 1.5,
-      "fm": 1,
-      "requests": 6,
+      "date": "2020-05-04T14:26:44.821Z",
+      "memory": 17.51,
+      "rm": 2,
+      "fm": 0,
+      "requests": 2,
       "pending": 0,
       "errors": 0,
       "timeouts": 0
