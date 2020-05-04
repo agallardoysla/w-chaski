@@ -4,6 +4,6 @@ version                         : 0.0.6
 
 //WhatsApp Configurations		
 instance						: 83430
-webhook							: http://localhost:8000
+webhook							: http://w-chaski.herokuapp.com/
 token							: j19ksi1mim1lksm12213
 masterKey						: w2apiisthebestlibrary
