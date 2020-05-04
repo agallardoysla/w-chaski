@@ -1,6 +1,9 @@
 # Node build artifacts
 node_modules
 npm-debug.log
+whatsSessions/*
+debug.js.json
+
 
 # Local development
 *.env
